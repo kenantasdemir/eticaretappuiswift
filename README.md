@@ -16,7 +16,7 @@
 
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/searchpageitemadded.png" width="300" height="500"/>
 
-<img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/notifications.png" width="300" height="500"/>
+<img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/notfications.png" width="300" height="500"/>
 
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/cart.png" width="300" height="500"/>
 
