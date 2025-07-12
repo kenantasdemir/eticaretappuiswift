@@ -28,4 +28,6 @@
 
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/creditcards.png" width="300" height="500"/>
 
+<img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/cardsexpanded.png" width="300" height="500"/>
+
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/carddetail.png" width="300" height="500"/>
