@@ -40,7 +40,7 @@
 
   <tr>
 <td><img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/accountinfo.png" width="300" height="500"/></td>
-<td><img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/accountinfo.png" width="300" height="500"/></td>
+<td><img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/creditcards.png" width="300" height="500"/></td>
 
 <td><img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/cardsexpanded.png" width="300" height="500"/></td>
 
