@@ -1,1 +1,2 @@
-<video src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/intro.mp4"/>
+![Uygulama Tanıtım](https://raw.githubusercontent.com/kullaniciadi/repoadi/main/intro.gif)
+
