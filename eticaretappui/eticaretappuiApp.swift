@@ -1,17 +1,15 @@
-//
-//  eticaretappuiApp.swift
-//  eticaretappui
-//
-//  Created by kenan on 6/29/25.
-//
+
 
 import SwiftUI
 
 @main
 struct eticaretappuiApp: App {
+    
+    @StateObject private var cartManager = CartManager()
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
+        .environmentObject(cartManager)
     }
 }
