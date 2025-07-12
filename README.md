@@ -1,11 +1,15 @@
-<img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/homepage.png" width="300" height="500"/>
+<table>
+  <tr>
+<td>
+<img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/homepage.png" width="300" height="500"/></td>
+<td><img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/homepagecart.png" width="300" height="500"/></td>
 
-<img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/homepagecart.png" width="300" height="500"/>
+<td><img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/homepageproductlist.png" width="300" height="500"/></td>
 
-<img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/homepageproductlist.png" width="300" height="500"/>
+<td><img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/productdetail.png" width="300" height="500"/></td>
 
-<img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/productdetail.png" width="300" height="500"/>
-
+  </tr>
+</table>
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/homepageproductlistadd.png" width="300" height="500"/>
 
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/homepagefilledcart.png" width="300" height="500"/>
