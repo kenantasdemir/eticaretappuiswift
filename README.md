@@ -1,2 +1,1 @@
-![Uygulama Tanıtım](https://raw.githubusercontent.com/kullaniciadi/repoadi/main/intro.gif)
-
+![Tanıtım GIF](https://raw.githubusercontent.com/kenantasdemir/eticaretappuiswift/main/intro.gif)
