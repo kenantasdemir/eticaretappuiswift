@@ -10,8 +10,6 @@
 
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/homepagefilledcart.png" width="300" height="500"/>
 
-<img src="https://raw.githubusercontent.com/kenantasdemir/eticaretappuiswift/main/intro.gif" width="300" height="500" />
-
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/searchpage.png" width="300" height="500"/>
 
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/searchpageitemadded.png" width="300" height="500"/>
@@ -31,3 +29,6 @@
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/cardsexpanded.png" width="300" height="500"/>
 
 <img src="https://github.com/kenantasdemir/eticaretappuiswift/blob/main/carddetail.png" width="300" height="500"/>
+
+
+<img src="https://raw.githubusercontent.com/kenantasdemir/eticaretappuiswift/main/intro.gif" width="300" height="500" />
